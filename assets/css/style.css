@@ -1,0 +1,119 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-inverse {
+  background-color: #2c3e50;
+  border-color: #080808;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #18bc9c;
+}
+
+a:hover {
+  color: #18bc9c;
+}
+
+.jumbotron {
+  color: #333;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+h1, strong {
+  color: #2c3e50;
+}
+
+#headshot {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-brand:hover {
+  color: #DDD;
+}
+
+.thumb-icon {
+  padding-top: 19px;
+  opacity: 0.8;
+}
+
+.thumb-caption {
+  margin-bottom: 15px;
+}
+
+.thumb-caption > h3 {
+  margin-top: 7px;
+}
+
+.thumblink {
+  background-color: green;
+}
+
+.content > p {
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+
+.content > ul > li {
+  font-size: 16px;
+  padding-bottom: 16px;
+}
+
+.content > ul > li.reddit {
+  font-size: 16px;
+  padding-bottom: 28px;
+}
+
+.content > ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+.content > ul > li {
+    padding-left: 1em;
+    text-indent: -.7em;
+}
+
+.content > ul > li:before {
+    content: "» ";
+    color: #001F3F; /* or whatever color you prefer */
+}
+
+#home-icons {
+  margin-top: 30px;
+}
+
+.hero-feature {
+  margin-bottom: 0px;
+}
+
+.hero-spacer {
+  margin-top: 25px;
+}
+
+br {
+  padding-top: 10px;
+}
+
+li.education {
+  font-size: 16px;
+}
+
+legend {
+  margin-top: 15px;
+  color: #2c3e50;
+}
